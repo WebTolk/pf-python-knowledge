@@ -12,9 +12,9 @@
       "versions": [
         {
           "version": "1.0.1",
-          "released_at": "2026-11-11T06:29:53.177494+00:00",
+          "released_at": "2026-11-11T06:34:13.741012+00:00",
           "download_url": "https://github.com/WebTolk/pf-python-knowledge/releases/download/v1.0.1/docs.python-1.0.1.zip",
-          "sha256": "574370a811bc81bc0345288d22b4aad2a3084f29aecf86b033f147c39efc861a",
+          "sha256": "7c242e16b3f14ca572903f4d365b85f5a4dd0414301387c0925b26c15eca3f27",
           "changelog_url": "https://github.com/WebTolk/pf-python-knowledge/releases/download/v1.0.1/CHANGELOG.md",
           "breaking": false,
           "migration_required": false

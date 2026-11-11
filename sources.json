@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "package": "docs.python",
+  "version": "1.0.1",
+  "extracted_at": "2026-11-11T06:17:15.183017+00:00",
+  "document_bytes_preserved": true,
+  "note": "Selected pre-existing snapshots, not a fresh upstream crawl or a complete documentation mirror. Upstream commit ids were not recorded during the original crawl.",
+  "documents": [
+    {
+      "path": "resources/asyncio.md",
+      "sha256": "58b231bd7a089809fb407fc1dbd0edbabc52a1cc643d3fe8d3da441fea0fcc62",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/builtins.md",
+      "sha256": "755226fd1e374e11e41e3db15bfe63b2868bb3680bedb62dc0c05a044bc7b3ea",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/compound-statements.md",
+      "sha256": "fa52d4dc9077dbeed9f99a9d9c1f7da6ac834394c7a60c1b222b418c4c82f9f1",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/data-model.md",
+      "sha256": "5c499089cb4461cfe6f74d18f5d7bae8725acb98b00b594ace1251f5d46a81ec",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/dataclasses.md",
+      "sha256": "9c19c5658aedb68dcf49bf6ccdaa676df31c96f3dea5c9d6fb1e0efe551703c8",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/exceptions.md",
+      "sha256": "dcf4fbaa2fa87d823cf31059aedf3dda579eae51a035301721d8a953f73e49c8",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/execution-model.md",
+      "sha256": "79f948f0e1b6042b4aa016a2de1c6d5e0d396077cc9189efc7989c1d784b67f5",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/expressions.md",
+      "sha256": "2178c86653e7b894618e7ad85ed6de1d8c85850631dd1638204cf0ebdd1f377d",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/index.md",
+      "sha256": "c6ac77a8132ef9d85e29b8d5a350831379ee4611794cb3714fcdf787d4489d83",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/language-reference.md",
+      "sha256": "bf405dcd61d5fb1c4c3fe9cbf92907c61a543dd9b7adf6defa82dde495ff0dc5",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/logging.md",
+      "sha256": "e9bea3273e71235f708bb701acea86c6f1982ee36066adfbf1a9a6832e110593",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/pathlib.md",
+      "sha256": "b046f5ead7e731f9c9c7417f9b21de7d2181bb5e6d9b08b9e578910b94cad92a",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/README.md",
+      "sha256": "5a691fa3a4013199d3224b56023125bd49fade165aaf98b142c76cb964cf2cb4",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/simple-statements.md",
+      "sha256": "c93902a569c34ad1882aeb6e6fc399feb1ecdcf1aa7abc071efce674d8b669a1",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/standard-library.md",
+      "sha256": "016326bb29f532630c6e49e1a83420fbcf3223329aa915f198bb86c7115cb722",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/stdtypes.md",
+      "sha256": "6f473f54c13bade2e041309e4346467cb0c19a20511a20b5c1ccee9e91f1eff0",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/subprocess.md",
+      "sha256": "1ec05df939508b1a1679241e7b3c70b49d603159f88e6beb3b910e3dbe62e514",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/tutorial.md",
+      "sha256": "686ba314da7a0be76fc2979110ee44e48ddd64442f7c8398671bb1e4de36c28a",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/typing.md",
+      "sha256": "cf7a9727d0ef5100fa5b650c9e0ee4f329fdb2f5a11090dae8ca06def9ca4c54",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/unittest.md",
+      "sha256": "2acab2e3aecce5d9228cdbb9f9bf4df4f03c4af1e48d888e90007724362a9710",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/venv.md",
+      "sha256": "e9d56497d39ee725873515b72d6513674dbb41e2ecd189368b282fdc2088066d",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    },
+    {
+      "path": "resources/whats-new.md",
+      "sha256": "6171efd697a2e32fb9d2e0610badbe859d8ae09b8feb1ad00568eeb2251e6e5d",
+      "source_url": null,
+      "mirrored_at": null,
+      "license": "Original snapshot navigation; constituent documents retain their own terms"
+    }
+  ],
+  "license_sources": [
+    {
+      "path": "licenses/PYTHON-LICENSE.txt",
+      "source": "https://github.com/python/cpython/blob/3.14/LICENSE",
+      "git_blob_sha": "20cf39097c68baa17cc566b64e76d34ebf034044"
+    }
+  ]
+}

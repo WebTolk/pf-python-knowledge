@@ -64,6 +64,7 @@ jobs:
               for file in sorted(root.rglob('*'), key=lambda p: p.relative_to(root).as_posix()):
                   if file.is_file() and file.relative_to(root).parts[0] in allowed:
                       info = zipfile.ZipInfo(file.relative_to(root).as_posix(), (2026, 11, 11, 0, 0, 0))
+                      info.create_system = 3
                       info.compress_type = zipfile.ZIP_STORED
                       info.external_attr = 0o100644 << 16
                       output.writestr(info, file.read_bytes())
